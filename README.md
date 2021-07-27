@@ -12,5 +12,5 @@ This app is used to store information of various electronics and hardware tools 
 ## IDE USED
 - Apache Netbeans
 
-##Screenshot of the app
-![](images/HomePage-IMS.jpg)
+## Screenshot of the app
+![](src/Icons/HomePage-IMS.jpg)
